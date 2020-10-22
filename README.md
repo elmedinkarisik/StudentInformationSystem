@@ -1,1 +1,1 @@
-Spring Boot Student Information System Webapp
+"Student Information System" made using Spring Boot
